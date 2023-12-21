@@ -3,7 +3,7 @@ import "./moduleOne.css";
 import TextRevealAnimationOne from "./animations/TextRevealAnimationOne";
 import TextRevealAnimationTwo from "./animations/TextRevealAnimationTwo";
 import LineRevealAnimation from "./animations/LineRevealAnimation";
-import Header from "../header/header";
+import Header from "../header/Header";
 
 
 export default function ModuleOne() {
