@@ -1,0 +1,12 @@
+@keyframes text-reveal {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+    color: gray;
+  }
+  to {
+    opacity: 1;
+    color: linear-gradient(to right, rgb(219, 234, 254), rgb(147, 197, 253), rgb(59, 130, 246));
+    transform: translateY(0);
+  }
+}
