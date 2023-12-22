@@ -28,7 +28,7 @@ export default function ModuleTwo() {
                   alt="fixit logo"
                   width="50"
                   height="50"
-                  src="https://www.fix-it.ai/_next/static/media/fixit_gray_bg.1049c903.svg"
+                  src="https://github.com/dakshsinghrathore/Brighter-Beginnings/assets/140843501/d3473d01-90e6-4642-af60-95b86ed3031e"
                 />
                 <h4 className=" text-[3rem] ">fiXit</h4>
               </div>
@@ -53,7 +53,7 @@ export default function ModuleTwo() {
                   fontSize="25"
                   height="1em"
                   width="1em"
-                  xmlns="https://github.com/dakshsinghrathore/Brighter-Beginnings/assets/140843501/d3473d01-90e6-4642-af60-95b86ed3031e"
+                  xmlns="http://www.w3.org/2000/svg"
                 >
                   <title>Search</title>
                   <path fill="none" d="M0 0h24v24H0z"></path>
