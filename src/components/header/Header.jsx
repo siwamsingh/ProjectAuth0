@@ -48,8 +48,8 @@ export default function Header() {
                 height="25"
                 src={`${
                   scrolled
-                    ? "https://www.fix-it.ai/_next/static/media/fixit_gray_bg.1049c903.svg"
-                    : "https://www.fix-it.ai/_next/static/media/fixit_white_bg.3734d2d4.svg"
+                    ?"https://github.com/dakshsinghrathore/Brighter-Beginnings/assets/140843501/29a67d9d-7015-4edb-a30e-7b7aba4410c4"
+                    :  "https://github.com/dakshsinghrathore/Brighter-Beginnings/assets/140843501/d3473d01-90e6-4642-af60-95b86ed3031e"
                 }`}
               />
               <h4 className=" text-[2rem] ">fiXit</h4>
